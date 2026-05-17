@@ -1,4 +1,4 @@
-# Bliss Njoki Portfolio
+# Irene Njoki Portfolio
 
 This is my beginner web development portfolio.
 
